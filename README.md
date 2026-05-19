@@ -100,17 +100,9 @@ class AlfredoRamos:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Alfredo-ctrl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Alfredo-ctrl&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0A66C2&text_color=1F2937&icon_color=6366F1" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfredo-ctrl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA" alt="GitHub stats" height="170" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-ctrl&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-ctrl&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0A66C2&text_color=1F2937" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-ctrl&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages" height="170" />
-</picture>
+<img src="https://img.shields.io/github/followers/Alfredo-ctrl?style=for-the-badge&logo=github&label=Followers&color=0A66C2" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/Alfredo-ctrl?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=38BDF8" alt="GitHub stars" />
+<img src="https://img.shields.io/github/last-commit/Alfredo-ctrl/Alfredo-ctrl?style=for-the-badge&logo=github&label=Profile%20updated&color=A78BFA" alt="Last profile update" />
 
 <br />
 <br />
