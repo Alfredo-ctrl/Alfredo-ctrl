@@ -1,0 +1,78 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Alfredo Ramos Olivan - AI Engineer in Progress</title>
+  <desc id="desc">Dark blue AI profile banner with code, neural network lines, and professional headline.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.45" stop-color="#071C3A"/>
+      <stop offset="1" stop-color="#1A0B42"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="160" y1="92" x2="1020" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.55" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 200) rotate(90) scale(190 260)">
+      <stop offset="0" stop-color="#2563EB" stop-opacity="0.62"/>
+      <stop offset="0.6" stop-color="#7C3AED" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#050816" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.74 0 0 0 0 0.97 0 0 0 0.55 0" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" stroke="#1E3A8A" stroke-opacity="0.22" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" rx="34" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="34" fill="url(#grid)"/>
+  <rect width="1280" height="420" rx="34" fill="url(#halo)"/>
+
+  <g opacity="0.52" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#7DD3FC">
+    <text x="68" y="70">class Vision:</text>
+    <text x="86" y="102">model = YOLO11()</text>
+    <text x="86" y="134">stack = ["PyTorch", "OpenCV", "FastAPI"]</text>
+    <text x="86" y="166">result = deploy(real_world_problem)</text>
+    <text x="68" y="198">if idea.has_impact():</text>
+    <text x="86" y="230">ship(clean_system)</text>
+  </g>
+
+  <g filter="url(#glow)">
+    <path d="M790 278 C852 214 861 118 936 98 C1029 74 1104 146 1110 228 C1114 296 1062 336 1002 343 C930 351 850 331 790 278Z" stroke="url(#accent)" stroke-width="2.4" fill="#0B122B" fill-opacity="0.22"/>
+    <path d="M936 98 C940 130 960 150 990 160 C1028 172 1050 198 1050 236 C1050 284 1018 321 1002 343" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="2"/>
+    <path d="M856 226 C906 222 930 188 960 160" stroke="#A78BFA" stroke-opacity="0.65" stroke-width="2"/>
+    <path d="M820 270 C878 276 922 300 1002 343" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="2"/>
+    <circle cx="936" cy="98" r="5" fill="#38BDF8"/>
+    <circle cx="990" cy="160" r="5" fill="#A78BFA"/>
+    <circle cx="1050" cy="236" r="5" fill="#60A5FA"/>
+    <circle cx="1002" cy="343" r="5" fill="#38BDF8"/>
+    <circle cx="856" cy="226" r="5" fill="#A78BFA"/>
+    <circle cx="820" cy="270" r="5" fill="#60A5FA"/>
+  </g>
+
+  <g opacity="0.72" stroke="url(#accent)" stroke-width="1.6">
+    <path d="M210 318 C340 258 438 350 568 274 C660 220 710 218 790 278"/>
+    <path d="M170 284 C292 212 412 280 524 204 C634 130 704 146 826 204"/>
+    <circle cx="210" cy="318" r="4" fill="#38BDF8"/>
+    <circle cx="568" cy="274" r="4" fill="#A78BFA"/>
+    <circle cx="826" cy="204" r="4" fill="#60A5FA"/>
+  </g>
+
+  <text x="150" y="264" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="1" fill="#F8FAFC">Alfredo Ramos</text>
+  <text x="154" y="314" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="url(#accent)">&lt; AI ENGINEER IN PROGRESS /&gt;</text>
+  <text x="156" y="356" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="500" fill="#CBD5E1">Python | Computer Vision | Machine Learning | FastAPI | Three.js</text>
+
+  <g transform="translate(154 86)">
+    <rect x="0" y="0" width="308" height="42" rx="21" fill="#0F172A" fill-opacity="0.84" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <circle cx="25" cy="21" r="7" fill="#22C55E"/>
+    <text x="44" y="27" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#E0F2FE">OPEN TO WORK | NUEVO LEON</text>
+  </g>
+
+  <rect x="18" y="18" width="1244" height="384" rx="26" stroke="#60A5FA" stroke-opacity="0.28" stroke-width="2"/>
+</svg>
