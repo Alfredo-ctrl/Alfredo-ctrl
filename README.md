@@ -18,13 +18,13 @@
 <br />
 <br />
 
-<strong>Estudiante de Ingenieria en Inteligencia Artificial</strong> |
-<strong>Desarrollador de IA y Web</strong> |
-<strong>Computer Vision Builder</strong>
+<strong>AI Engineering Student</strong> |
+<strong>Web Developer</strong> |
+<strong>Builder of Useful Tools</strong>
 
 <br />
 
-<sub>Juarez, Nuevo Leon, Mexico | Open to work | Python | PyTorch | OpenCV | YOLO11 | FastAPI | Three.js</sub>
+<sub>Juarez, Nuevo Leon, Mexico | Python | PyTorch | OpenCV | FastAPI | JavaScript | Three.js</sub>
 
 </div>
 
@@ -33,13 +33,33 @@
 ## Current Signal
 
 ```txt
-status       AI Engineer in Progress
-focus        Computer Vision, applied ML, full-stack AI products
-building     FastAPI backends, visual interfaces, detection pipelines
-style        clean systems, sharp UI, useful automation
+status       AI engineer in progress
+focus        useful AI tools, computer vision, web products
+building     CLIs, web apps, privacy-safe showcases, visual interfaces
+style        clean systems, clear UX, portfolio-ready documentation
 ```
 
-I build software where AI is not just a demo layer. My sweet spot is connecting models, APIs, data, and interfaces into tools that feel practical, fast, and ready for real users.
+I build practical AI, web, and developer-tool projects with a focus on real users, safe publication, and interfaces that feel intentional.
+
+## Featured Work
+
+| Project | Type | Why it matters |
+| --- | --- | --- |
+| [CONAEMPLEO Showcase](https://github.com/Alfredo-ctrl/conaempleo-showcase) | Privacy-safe platform showcase | Public portfolio edition for an employability platform without exposing private student, company, or admin data. |
+| [LifePilot](https://github.com/Alfredo-ctrl/lifepilot) | Web app + CLI | Personal planning assistant designed to make daily decisions easier and more organized. |
+| [RepoDoctor](https://github.com/Alfredo-ctrl/repodoctor) | CLI tool | Audits repositories before publishing and flags missing docs, screenshots, setup steps, and obvious safety risks. |
+| [Neural Style Transfer API](https://github.com/Alfredo-ctrl/neural-style-transfer-api) | AI API + web studio | Image style-transfer workbench with a practical API surface and visual interface. |
+| [SignalForge AI](https://github.com/Alfredo-ctrl/signalforge-ai) | Telemetry review tool | Local telemetry analysis interface for turning raw signals into readable reviews. |
+| [Vision Document Scanner](https://github.com/Alfredo-ctrl/vision-document-scanner) | Computer vision app | Document scanning workflow with image processing and a public demo interface. |
+
+## Project Categories
+
+| Category | Repositories |
+| --- | --- |
+| AI and Computer Vision | `neural-style-transfer-api`, `vision-document-scanner`, `signalforge-ai` |
+| Web Applications | `conaempleo-showcase`, `lifepilot`, `briefsmith` |
+| Developer Tools | `repodoctor`, `lifepilot` CLI |
+| Privacy-Safe Showcases | `conaempleo-showcase` |
 
 ## What I Work With
 
@@ -65,36 +85,15 @@ I build software where AI is not just a demo layer. My sweet spot is connecting 
 
 </div>
 
-## Featured Builds
+## GitHub Workflow
 
-| Project | What it says about me |
-| --- | --- |
-| [peoyecto-retail](https://github.com/Alfredo-ctrl/peoyecto-retail) | Computer vision for retail inventory classification. Practical AI, not just notebooks. |
-| [vision-document-scanner](https://github.com/Alfredo-ctrl/vision-document-scanner) | Image processing workflow for document scanning and cleanup. |
-| [excel-maniobras-descarga](https://github.com/Alfredo-ctrl/excel-maniobras-descarga) | Automation around operational spreadsheets and workflow pain points. |
-| CONAEMPLEO | Full-stack job platform concept: auth, dashboard logic, matching flow, and production-style architecture. |
+This profile is maintained as an active learning portfolio:
 
-## Engineering Profile
-
-```python
-class AlfredoRamos:
-    role = "AI Engineer in Progress"
-    location = "Juarez, Nuevo Leon, Mexico"
-
-    stack = {
-        "ai": ["Python", "PyTorch", "OpenCV", "YOLO11", "scikit-learn"],
-        "backend": ["FastAPI", "Node.js", "SQL"],
-        "frontend": ["React", "Next.js", "Three.js", "Tailwind CSS"],
-    }
-
-    def current_focus(self):
-        return [
-            "computer vision systems",
-            "AI-powered web applications",
-            "clean APIs for real products",
-            "interfaces that feel fast and intentional",
-        ]
-```
+- New projects are organized by date under `C:\Rutina_Proyectos_GitHub`.
+- Public repositories include clear README files, run instructions, and visual previews when useful.
+- Sensitive or real-world projects are published only as sanitized showcase editions.
+- Curated stars and lists track AI, web motion, and developer-tool references worth studying.
+- Web projects use motion intentionally, including strategic parallax when it improves the product feel.
 
 ## GitHub Pulse
 
@@ -119,6 +118,6 @@ class AlfredoRamos:
 
 <div align="center">
 
-<strong>Building the future one useful model, API, and interface at a time.</strong>
+<strong>Building practical AI and web tools, one useful repository at a time.</strong>
 
 </div>
