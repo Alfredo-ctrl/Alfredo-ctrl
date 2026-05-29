@@ -1,3 +1,39 @@
+<!-- portfolio:start -->
+<p align="center">
+  <img src="assets/readme-hero.svg" alt="Alfredo Ctrl banner" width="100%" />
+</p>
+
+<h1 align="center">Alfredo Ctrl</h1>
+
+<p align="center"><strong>AI student, web builder, and daily project shipper.</strong></p>
+
+<p align="center">
+<img alt="profile: active" src="https://img.shields.io/badge/profile-active-f8fafc?style=for-the-badge&labelColor=38bdf8" />
+  <img alt="focus: AI + Web" src="https://img.shields.io/badge/focus-AI%20%2B%20Web-f8fafc?style=for-the-badge&labelColor=38bdf8" />
+  <img alt="cadence: daily builds" src="https://img.shields.io/badge/cadence-daily%20builds-f8fafc?style=for-the-badge&labelColor=38bdf8" />
+</p>
+
+## Portfolio Signal
+
+This profile is a living map of practical AI and web experiments: tools, demos, CLI utilities, visual systems, and case studies.
+
+## What To Notice
+
+Each repository is shaped as a different product world, so the portfolio shows range instead of repeating the same visual language.
+
+## Current Direction
+
+Building helpful, understandable tools around AI, programming workflows, visual interfaces, and student-friendly productivity.
+
+## Portfolio Note
+
+This repository has its own visual identity inside the portfolio. The goal is that every project feels like a different product, not another copy of the same template.
+<!-- portfolio:end -->
+
+---
+
+## Existing Project Notes
+
 <div align="center">
 
 <img src="./assets/profile-banner.svg" alt="Alfredo Ramos Olivan - AI Engineer in Progress" width="100%" />

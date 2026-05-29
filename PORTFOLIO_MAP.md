@@ -1,44 +1,23 @@
 # Portfolio Map
 
-This file keeps the GitHub profile organized as the project routine grows.
+This file tracks the current identity direction for Alfredo's GitHub projects.
 
-## Pinned Repository Candidates
+| Project | Main Signal | Identity |
+| --- | --- | --- |
+| [Vision Document Scanner](https://github.com/Alfredo-ctrl/vision-document-scanner) | computer vision | A crisp document capture workflow for edge detection, perspective correction, and export-ready scans. |
+| [Neural Style Transfer API](https://github.com/Alfredo-ctrl/neural-style-transfer-api) | deep learning | A FastAPI and VGG19 image engine with a gallery-like frontend for artistic transformation. |
+| [SignalForge AI](https://github.com/Alfredo-ctrl/signalforge-ai) | anomaly detection | Offline telemetry intelligence for anomaly detection and incident review. |
+| [LifePilot](https://github.com/Alfredo-ctrl/lifepilot) | daily planning | A friendly planner for turning messy tasks into a realistic day, both on web and terminal. |
+| [BriefSmith](https://github.com/Alfredo-ctrl/briefsmith) | planning | A project brief forge for turning rough product ideas into buildable plans. |
+| [CONAEMPLEO Showcase](https://github.com/Alfredo-ctrl/conaempleo-showcase) | case study | A privacy-safe public case study for an employability platform. |
+| [RepoDoctor](https://github.com/Alfredo-ctrl/repodoctor) | repo audit | A CLI clinic that checks whether a GitHub project is ready to be shown. |
+| [MotionForge](https://github.com/Alfredo-ctrl/motionforge) | GSAP motion | A kinetic playground for scroll-driven motion, live snippets, and expressive web sections. |
+| [Aura Motion Kit](https://github.com/Alfredo-ctrl/aura-motion-kit) | UI feel | A soft interaction kit for pastel motion, tactile buttons, floating tags, and tiny sounds. |
+| [PromptFrame](https://github.com/Alfredo-ctrl/promptframe) | prompting | An offline prompt builder that turns rough thoughts into clear AI instructions. |
+| [FlowFixer](https://github.com/Alfredo-ctrl/flowfixer) | debugging | An offline debug route builder that turns programming errors into fix plans. |
+| [Excel Maniobras Descarga](https://github.com/Alfredo-ctrl/excel-maniobras-descarga) | excel workflow | A guided Excel automation resource for maneuver download workflows and repeatable office steps. |
+| [Retail Vision Lab](https://github.com/Alfredo-ctrl/peoyecto-retail) | computer vision | A computer vision retail experiment for inventory classification and visual product understanding. |
 
-1. `conaempleo-showcase` - strongest public story and privacy-safe real-world showcase.
-2. `lifepilot` - user-friendly web and terminal product.
-3. `repodoctor` - practical developer CLI that helps publish better repositories.
-4. `neural-style-transfer-api` - AI project with API and visual studio.
-5. `signalforge-ai` - applied AI-style review interface for telemetry.
-6. `vision-document-scanner` - computer vision utility with a clear user problem.
+## Future Rule
 
-## Repository Topics To Keep Consistent
-
-| Repository | Topics |
-| --- | --- |
-| `conaempleo-showcase` | `portfolio`, `web-app`, `privacy`, `employment-platform`, `showcase` |
-| `lifepilot` | `productivity`, `cli-tool`, `web-app`, `planning`, `ai-inspired` |
-| `repodoctor` | `cli-tool`, `developer-tools`, `github`, `portfolio`, `repository-audit` |
-| `neural-style-transfer-api` | `ai`, `computer-vision`, `fastapi`, `image-processing`, `web-studio` |
-| `signalforge-ai` | `ai`, `telemetry`, `dashboard`, `web-app`, `local-first` |
-| `vision-document-scanner` | `computer-vision`, `document-scanner`, `python`, `image-processing`, `web-app` |
-| `briefsmith` | `ai-inspired`, `planning`, `web-app`, `project-brief`, `developer-tools` |
-
-## Curated Star Lists
-
-| List | Purpose |
-| --- | --- |
-| `AI study map` | Frameworks, notebooks, and references for AI engineering. |
-| `Web motion inspiration` | Libraries and examples for polished motion, parallax, 3D, and interaction design. |
-| `Developer tools` | CLI, build, docs, and repository-quality tools worth studying. |
-
-## Future Project Rule
-
-Every new project should leave GitHub cleaner than before:
-
-- Clear repository name.
-- Short description.
-- Topics.
-- README with run instructions.
-- Screenshot or visual preview when it has an interface.
-- Safe `.gitignore`.
-- No private data, real credentials, or production exports.
+Every new repository must ship with a unique README banner, a distinct tone, a clear use case, and a visual direction that does not repeat an older project.
