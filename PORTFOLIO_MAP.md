@@ -15,6 +15,7 @@ This file tracks the current identity direction for Alfredo's GitHub projects.
 | [Aura Motion Kit](https://github.com/Alfredo-ctrl/aura-motion-kit) | UI feel | A soft interaction kit for pastel motion, tactile buttons, floating tags, and tiny sounds. |
 | [PromptFrame](https://github.com/Alfredo-ctrl/promptframe) | prompting | An offline prompt builder that turns rough thoughts into clear AI instructions. |
 | [FlowFixer](https://github.com/Alfredo-ctrl/flowfixer) | debugging | An offline debug route builder that turns programming errors into fix plans. |
+| [ClusterNebula](https://github.com/Alfredo-ctrl/clusternebula) | 3D data science | A Three.js data lab for exploring CSV datasets as interactive k-means cluster clouds. |
 | [Excel Maniobras Descarga](https://github.com/Alfredo-ctrl/excel-maniobras-descarga) | excel workflow | A guided Excel automation resource for maneuver download workflows and repeatable office steps. |
 | [Retail Vision Lab](https://github.com/Alfredo-ctrl/peoyecto-retail) | computer vision | A computer vision retail experiment for inventory classification and visual product understanding. |
 
