@@ -87,6 +87,7 @@ I build practical AI, web, and developer-tool projects with a focus on real user
 | [Neural Style Transfer API](https://github.com/Alfredo-ctrl/neural-style-transfer-api) | AI API + web studio | Image style-transfer workbench with a practical API surface and visual interface. |
 | [SignalForge AI](https://github.com/Alfredo-ctrl/signalforge-ai) | Telemetry review tool | Local telemetry analysis interface for turning raw signals into readable reviews. |
 | [Vision Document Scanner](https://github.com/Alfredo-ctrl/vision-document-scanner) | Computer vision app | Document scanning workflow with image processing and a public demo interface. |
+| [ia-oculta](https://github.com/Alfredo-ctrl/ia-oculta) | AI safety CLI | Terminal scanner for hidden prompt injection, invisible Unicode, and suspicious AI instructions. |
 
 ## Project Categories
 
@@ -94,7 +95,7 @@ I build practical AI, web, and developer-tool projects with a focus on real user
 | --- | --- |
 | AI and Computer Vision | `neural-style-transfer-api`, `vision-document-scanner`, `signalforge-ai` |
 | Web Applications | `conaempleo-showcase`, `lifepilot`, `briefsmith` |
-| Developer Tools | `repodoctor`, `lifepilot` CLI |
+| Developer Tools | `repodoctor`, `lifepilot` CLI, `ia-oculta` |
 | Privacy-Safe Showcases | `conaempleo-showcase` |
 
 ## What I Work With
