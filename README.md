@@ -1,160 +1,150 @@
-<!-- portfolio:start -->
-<p align="center">
-  <img src="assets/readme-hero.svg" alt="Alfredo Ctrl banner" width="100%" />
-</p>
-
-<h1 align="center">Alfredo Ctrl</h1>
-
-<p align="center"><strong>AI student, web builder, and daily project shipper.</strong></p>
-
-<p align="center">
-<img alt="profile: active" src="https://img.shields.io/badge/profile-active-f8fafc?style=for-the-badge&labelColor=38bdf8" />
-  <img alt="focus: AI + Web" src="https://img.shields.io/badge/focus-AI%20%2B%20Web-f8fafc?style=for-the-badge&labelColor=38bdf8" />
-  <img alt="cadence: daily builds" src="https://img.shields.io/badge/cadence-daily%20builds-f8fafc?style=for-the-badge&labelColor=38bdf8" />
-</p>
-
-## Portfolio Signal
-
-This profile is a living map of practical AI and web experiments: tools, demos, CLI utilities, visual systems, and case studies.
-
-## What To Notice
-
-Each repository is shaped as a different product world, so the portfolio shows range instead of repeating the same visual language.
-
-## Current Direction
-
-Building helpful, understandable tools around AI, programming workflows, visual interfaces, and student-friendly productivity.
-
-## Portfolio Note
-
-This repository has its own visual identity inside the portfolio. The goal is that every project feels like a different product, not another copy of the same template.
-<!-- portfolio:end -->
-
----
-
-## Existing Project Notes
-
 <div align="center">
-
-<img src="./assets/profile-banner.svg" alt="Alfredo Ramos Olivan - AI Engineer in Progress" width="100%" />
-
-<br />
-
-<a href="https://linkedin.com/in/alfredo-ramos-olivan-07751a3a5">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:alfredooliva765498@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/Alfredo-ctrl">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Alfredo-ctrl&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br />
-<br />
-
-<strong>AI Engineering Student</strong> |
-<strong>Web Developer</strong> |
-<strong>Builder of Useful Tools</strong>
-
-<br />
-
-<sub>Juarez, Nuevo Leon, Mexico | Python | PyTorch | OpenCV | FastAPI | JavaScript | Three.js</sub>
-
+  <img src="assets/profile-banner.svg" alt="Alfredo Ramos - AI & Computer Vision Engineer" width="100%" />
 </div>
 
+<p align="center">
+  <a href="https://linkedin.com/in/alfredo-ramos-olivan-07751a3a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alfredooliva765498@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Alfredo-ctrl">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Building%20Daily-38BDF8?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Alfredo-ctrl&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <strong>Estudiante de Ingeniería en Inteligencia Artificial &amp; Desarrollo de Software</strong><br />
+  <sub>📍 Monterrey / Juárez, Nuevo León, México 🇲🇽 • Especializado en <strong>Computer Vision, Edge AI, Deep Learning</strong> y Arquitecturas Web Interactivas</sub>
+</p>
+
 ---
 
-## Current Signal
+## ⚡ Sobre Mí / Engineering Signal
 
 ```txt
-status       AI engineer in progress
-focus        useful AI tools, computer vision, web products
-building     CLIs, web apps, privacy-safe showcases, visual interfaces
-style        clean systems, clear UX, portfolio-ready documentation
+rol           Estudiante de Inteligencia Artificial & Desarrollador de Software
+enfoque       Computer Vision, Deep Learning, Edge AI (Hailo-8L / RPi5) y Herramientas Web
+tecnologías   Python, PyTorch, TensorFlow/Keras, OpenCV, FastAPI, Three.js, JavaScript
+objetivo      Crear soluciones visuales aplicadas a la industria, retail y herramientas de productividad
+filosofía     Sistemas limpios, alta precisión en producción y código documentado listo para desplegar
 ```
 
-I build practical AI, web, and developer-tool projects with a focus on real users, safe publication, and interfaces that feel intentional.
+Soy un apasionado de la **Inteligencia Artificial aplicada y la Visión por Computadora**. Me especializo en llevar modelos matemáticos y redes neuronales desde el entrenamiento en notebooks hasta implementaciones productivas en entornos **Edge (Raspberry Pi 5 + NPU)**, APIs de inferencia de alto rendimiento (**FastAPI / Streamlit**) e interfaces 3D interactivas (**Three.js / WebGL**).
 
-## Featured Work
+---
 
-| Project | Type | Why it matters |
-| --- | --- | --- |
-| [CONAEMPLEO Showcase](https://github.com/Alfredo-ctrl/conaempleo-showcase) | Privacy-safe platform showcase | Public portfolio edition for an employability platform without exposing private student, company, or admin data. |
-| [LifePilot](https://github.com/Alfredo-ctrl/lifepilot) | Web app + CLI | Personal planning assistant designed to make daily decisions easier and more organized. |
-| [RepoDoctor](https://github.com/Alfredo-ctrl/repodoctor) | CLI tool | Audits repositories before publishing and flags missing docs, screenshots, setup steps, and obvious safety risks. |
-| [Neural Style Transfer API](https://github.com/Alfredo-ctrl/neural-style-transfer-api) | AI API + web studio | Image style-transfer workbench with a practical API surface and visual interface. |
-| [SignalForge AI](https://github.com/Alfredo-ctrl/signalforge-ai) | Telemetry review tool | Local telemetry analysis interface for turning raw signals into readable reviews. |
-| [Vision Document Scanner](https://github.com/Alfredo-ctrl/vision-document-scanner) | Computer vision app | Document scanning workflow with image processing and a public demo interface. |
-| [ia-oculta](https://github.com/Alfredo-ctrl/ia-oculta) | AI safety CLI | Terminal scanner for hidden prompt injection, invisible Unicode, and suspicious AI instructions. |
+## 🏆 Proyectos Destacados (Featured Engineering Systems)
 
-## Project Categories
+| Proyecto | Tipo / Stack | Aspectos Técnicos Clave | Repositorio |
+| :--- | :--- | :--- | :---: |
+| **🏭 Inspección Industrial & Quality Control** | `Deep Learning` `Keras 3` `MobileNetV2` `Streamlit` | Sistema automatizado de control de calidad para piezas de fundición automotriz (impellers). Clasificación binaria con transferencia de aprendizaje, fine-tuning progresivo y panel interactivo con métricas de recall críticas para evitar falsos negativos en línea de producción. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/inspeccion-industrial) |
+| **🛒 Retail Vision AI Lab** | `Edge AI` `YOLO11` `Hailo-8L` `Three.js` `FastAPI` | Arquitectura completa de inventario inteligente en tiempo real para retail. Pipeline ensemble (**YOLO11x + RT-DETR + RF-DETR** con WBF) a 98.5% mAP, optimizado para inferencia en hardware edge **Raspberry Pi 5 + Hailo-8L (13 TOPS, 30 FPS INT8)** con simulador 3D interactivo en Three.js. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/peoyecto-retail) |
+| **🔬 DefectVision Studio (Explainable AI)** | `Computer Vision` `Grad-CAM` `PyTorch` `Canvas Web` | Estudio visual interactivo de detección e inspección con **Grad-CAM**. Genera mapas de calor de activación neural para explicar en tiempo real dónde y por qué el modelo detecta fallas estructurales, fisuras o anomalías. Incluye demo web standalone sin dependencias. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/defect-vision-studio) |
+| **🎨 Neural Style Transfer API** | `Deep Learning` `VGG19` `FastAPI` `PyTorch` | API de síntesis y transferencia de estilo neuronal en tiempo real basada en VGG19. Arquitectura optimizada con FastAPI, soporte de GPU/CPU y frontend web premium para transformación artística de imágenes. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/neural-style-transfer-api) |
+| **💼 CONAEMPLEO Showcase** | `Web Platform` `Security` `UI/UX` `Architecture` | Edición pública sanitizada y segura de la plataforma de empleabilidad CONAEMPLEO. Diseñada para demostrar arquitectura empresarial, flujos de contratación, diseño responsivo y seguridad sin exponer datos confidenciales. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/conaempleo-showcase) |
+| **🛡️ IA Oculta (AI Security CLI)** | `DevTools` `AI Safety` `CLI` `Node.js` | Herramienta de terminal para escanear y detectar inyecciones de prompts ocultas, caracteres Unicode invisibles, payloads ofuscados e instrucciones maliciosas en datasets y prompts para LLMs. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/ia-oculta) |
+| **🩺 RepoDoctor** | `CLI Utility` `Automation` `DevOps` | Auditor de repositorios antes de su publicación en GitHub. Verifica documentación README, assets visuales, instrucciones de ejecución y posibles riesgos de seguridad. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/repodoctor) |
+| **🪐 ClusterNebula** | `Data Science 3D` `Three.js` `Machine Learning` | Laboratorio de ciencia de datos en 3D para visualizar e interactuar con algoritmos de clustering K-Means en el navegador mediante nubes de puntos y aceleración WebGL. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/clusternebula) |
 
-| Category | Repositories |
-| --- | --- |
-| AI and Computer Vision | `neural-style-transfer-api`, `vision-document-scanner`, `signalforge-ai` |
-| Web Applications | `conaempleo-showcase`, `lifepilot`, `briefsmith` |
-| Developer Tools | `repodoctor`, `lifepilot` CLI, `ia-oculta` |
-| Privacy-Safe Showcases | `conaempleo-showcase` |
+---
 
-## What I Work With
+## 🛠️ Stack Tecnológico & Especialidades
 
 <div align="center">
 
-### Artificial Intelligence
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" alt="AI stack" />
-
-<br />
-<br />
-
-### Web And Product
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,nodejs,fastapi,tailwind,html,css" alt="Web stack" />
+### 🧠 Inteligencia Artificial, Deep Learning & Visión Artificial
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&perline=10" alt="AI & ML Stack" />
+</p>
+<sub>Python • PyTorch • TensorFlow • Keras • OpenCV • Scikit-Learn • NumPy • Pandas • MobileNet • YOLO11</sub>
 
 <br />
+
+### 🌐 Desarrollo Web, Frontend Creativo & 3D
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,html,css,tailwind&perline=10" alt="Web & 3D Stack" />
+</p>
+<sub>JavaScript (ES6+) • TypeScript • React • Three.js (WebGL) • Tailwind CSS • HTML5 • CSS3 Moderno • GSAP</sub>
+
 <br />
 
-### Tools
+### ⚙️ Backend, APIs & Hardware Edge
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,raspberrypi,linux,docker&perline=10" alt="Backend & Edge Stack" />
+</p>
+<sub>FastAPI • Streamlit • Node.js • Express • Raspberry Pi 5 • NPU Hailo-8L • Linux / Bash • Docker</sub>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,mysql,firebase,vercel" alt="Tools stack" />
+<br />
+
+### 🧰 Entornos, Control de Versiones & Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=10" alt="Dev Tools" />
+</p>
+<sub>Git • GitHub • Visual Studio Code • Jupyter Notebooks • Google Colab • Postman • Figma</sub>
 
 </div>
 
-## GitHub Workflow
+---
 
-This profile is maintained as an active learning portfolio:
-
-- New projects are organized by date under `C:\Rutina_Proyectos_GitHub`.
-- Public repositories include clear README files, run instructions, and visual previews when useful.
-- Sensitive or real-world projects are published only as sanitized showcase editions.
-- Curated stars and lists track AI, web motion, and developer-tool references worth studying.
-- Web projects use motion intentionally, including strategic parallax when it improves the product feel.
-
-## GitHub Pulse
+## 📊 Métricas & Actividad en GitHub
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Alfredo-ctrl?style=for-the-badge&logo=github&label=Followers&color=0A66C2" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/Alfredo-ctrl?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=38BDF8" alt="GitHub stars" />
-<img src="https://img.shields.io/github/last-commit/Alfredo-ctrl/Alfredo-ctrl?style=for-the-badge&logo=github&label=Profile%20updated&color=A78BFA" alt="Last profile update" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Alfredo-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Alfredo-ctrl&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfredo-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0" alt="GitHub Stats" width="48%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alfredo-ctrl&theme=tokyonight&hide_border=true&background=0B132B&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alfredo-ctrl&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfredo-ctrl&theme=tokyonight&hide_border=true&background=0B132B&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="48%" />
+</picture>
 
-<br />
-<br />
+<br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Alfredo-ctrl&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=A78BFA&area=true&area_color=0A2540&hide_border=true&custom_title=Contribution%20Timeline" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Alfredo-ctrl&bg_color=FFFFFF&color=1F2937&line=0A66C2&point=6366F1&area=true&area_color=DBEAFE&hide_border=true&custom_title=Contribution%20Timeline" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfredo-ctrl&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=A78BFA&area=true&area_color=0A2540&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution graph" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Alfredo-ctrl&bg_color=0B132B&color=E2E8F0&line=38BDF8&point=818CF8&area=true&area_color=0F2744&hide_border=true&custom_title=Actividad%20y%20Contribuciones" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Alfredo-ctrl&bg_color=FFFFFF&color=1F2937&line=0A66C2&point=6366F1&area=true&area_color=DBEAFE&hide_border=true&custom_title=Actividad%20y%20Contribuciones" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfredo-ctrl&bg_color=0B132B&color=E2E8F0&line=38BDF8&point=818CF8&area=true&area_color=0F2744&hide_border=true&custom_title=Actividad%20y%20Contribuciones" alt="Contribution Graph" width="97%" />
 </picture>
 
 </div>
 
 ---
 
+## 🎯 Metodología & Flujo de Trabajo
+
+- **Enfoque Práctico:** Cada desarrollo busca solucionar un problema tangible (control de calidad, optimización de inventarios, seguridad o productividad de desarrolladores).
+- **Inferencia en el Borde (Edge AI):** Priorizo arquitecturas que puedan ejecutarse localmente con baja latencia y consumo eficiente de recursos.
+- **Documentación Completa:** Repositorios estructurados con diagramas, instrucciones reproducibles de instalación y demos funcionales.
+- **Privacidad por Diseño:** Para proyectos empresariales o académicos sensibles, publico ediciones showcase sanitizadas que demuestran arquitectura sin exponer datos privados.
+
+---
+
+## 📬 Contacto & Redes
+
+¿Tienes una idea, proyecto o propuesta de colaboración en Inteligencia Artificial o Visión por Computadora? ¡Conectemos!
+
 <div align="center">
 
-<strong>Building practical AI and web tools, one useful repository at a time.</strong>
+<a href="https://linkedin.com/in/alfredo-ramos-olivan-07751a3a5">
+  <img src="https://img.shields.io/badge/LinkedIn-Alfredo%20Ramos%20Olivan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:alfredooliva765498@gmail.com">
+  <img src="https://img.shields.io/badge/Email-alfredooliva765498@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Alfredo-ctrl">
+  <img src="https://img.shields.io/badge/GitHub-@Alfredo--ctrl-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br /><br />
+<sub>✨ Construyendo el futuro de la Visión Artificial y la Inteligencia Práctica un proyecto a la vez.</sub>
 
 </div>
