@@ -1,0 +1,87 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Flagship Engineering Systems Architecture</title>
+  <desc id="desc">2x2 architectural bento specification of flagship AI, Computer Vision, Edge NPU, and Statistical ML systems.</desc>
+  <defs>
+    <pattern id="gridBento" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" stroke="#1E293B" stroke-opacity="0.28" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" rx="10" fill="#05080F"/>
+
+  <!-- CARD 01: INSPECCION INDUSTRIAL -->
+  <g transform="translate(0, 0)">
+    <rect width="630" height="202" rx="8" fill="#090E1A" stroke="#1E293B" stroke-width="1.5"/>
+    <rect width="630" height="202" rx="8" fill="url(#gridBento)"/>
+    <line x1="0" y1="0" x2="140" y2="0" stroke="#38BDF8" stroke-width="2.5"/>
+
+    <text x="28" y="34" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#38BDF8" letter-spacing="1.5">SYS.01 // INSPECCION-INDUSTRIAL</text>
+    <rect x="478" y="18" width="124" height="22" rx="4" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.4"/>
+    <text x="540" y="33" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#38BDF8">99.72% ACCURACY</text>
+
+    <text x="28" y="68" font-family="Inter, -apple-system, sans-serif" font-size="22" font-weight="800" fill="#F8FAFC" letter-spacing="-0.4">Industrial Casting Defect Control</text>
+    <text x="28" y="96" font-family="Inter, -apple-system, sans-serif" font-size="13.5" fill="#94A3B8">Automated binary defect classification for submersible pump impellers (7,348 castings).</text>
+    <text x="28" y="116" font-family="Inter, -apple-system, sans-serif" font-size="13.5" fill="#94A3B8">Evaluates progressive neural tiers from dense MLP and custom CNNs to MobileNetV2 fine-tuning.</text>
+
+    <line x1="28" y1="142" x2="602" y2="142" stroke="#1E293B" stroke-width="1"/>
+    <text x="28" y="166" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#CBD5E1">STACK // TensorFlow 2.20 · Keras 3 · MobileNetV2 · Scikit-Learn · Streamlit · Playwright</text>
+    <text x="28" y="184" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#64748B">METRICS // 99.78% Precision · 99.62% Defect Recall · 99.70% F1-Score (713/715 Test)</text>
+  </g>
+
+  <!-- CARD 02: RETAIL VISION AI LAB -->
+  <g transform="translate(650, 0)">
+    <rect width="630" height="202" rx="8" fill="#090E1A" stroke="#1E293B" stroke-width="1.5"/>
+    <rect width="630" height="202" rx="8" fill="url(#gridBento)"/>
+    <line x1="0" y1="0" x2="140" y2="0" stroke="#10B981" stroke-width="2.5"/>
+
+    <text x="28" y="34" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#10B981" letter-spacing="1.5">SYS.02 // PEOYECTO-RETAIL</text>
+    <rect x="478" y="18" width="124" height="22" rx="4" fill="#0F172A" stroke="#10B981" stroke-opacity="0.4"/>
+    <text x="540" y="33" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#10B981">98.50% WBF mAP</text>
+
+    <text x="28" y="68" font-family="Inter, -apple-system, sans-serif" font-size="22" font-weight="800" fill="#F8FAFC" letter-spacing="-0.4">Retail Edge Vision &amp; 3D Digital Twin</text>
+    <text x="28" y="96" font-family="Inter, -apple-system, sans-serif" font-size="13.5" fill="#94A3B8">Autonomous shelf inventory auditing engineered for Raspberry Pi 5 + Hailo-8L NPU (13 TOPS).</text>
+    <text x="28" y="116" font-family="Inter, -apple-system, sans-serif" font-size="13.5" fill="#94A3B8">Combines YOLO11x, RT-DETR, and RF-DETR via Weighted Boxes Fusion with a Three.js 3D store twin.</text>
+
+    <line x1="28" y1="142" x2="602" y2="142" stroke="#1E293B" stroke-width="1"/>
+    <text x="28" y="166" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#CBD5E1">STACK // PyTorch · YOLO11 · RT-DETR · FastAPI · Three.js · Hailo-8L INT8 · Docker</text>
+    <text x="28" y="184" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#64748B">METRICS // 30 FPS Edge Inference · 1.7M Bounding Boxes (SKU-110K) · 4 PTZ Streams</text>
+  </g>
+
+  <!-- CARD 03: DEFECTVISION STUDIO -->
+  <g transform="translate(0, 218)">
+    <rect width="630" height="202" rx="8" fill="#090E1A" stroke="#1E293B" stroke-width="1.5"/>
+    <rect width="630" height="202" rx="8" fill="url(#gridBento)"/>
+    <line x1="0" y1="0" x2="140" y2="0" stroke="#818CF8" stroke-width="2.5"/>
+
+    <text x="28" y="34" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#818CF8" letter-spacing="1.5">SYS.03 // DEFECT-VISION-STUDIO</text>
+    <rect x="478" y="18" width="124" height="22" rx="4" fill="#0F172A" stroke="#818CF8" stroke-opacity="0.4"/>
+    <text x="540" y="33" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#818CF8">GRAD-CAM XAI</text>
+
+    <text x="28" y="68" font-family="Inter, -apple-system, sans-serif" font-size="22" font-weight="800" fill="#F8FAFC" letter-spacing="-0.4">Explainable AI Saliency Inspector</text>
+    <text x="28" y="96" font-family="Inter, -apple-system, sans-serif" font-size="13.5" fill="#94A3B8">Gradient-weighted Class Activation Mapping engine projecting thermal saliency overlays</text>
+    <text x="28" y="116" font-family="Inter, -apple-system, sans-serif" font-size="13.5" fill="#94A3B8">to localize fractures, porosities, and surface wear across metallurgical and PCB assemblies.</text>
+
+    <line x1="28" y1="142" x2="602" y2="142" stroke="#1E293B" stroke-width="1"/>
+    <text x="28" y="166" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#CBD5E1">STACK // Python · FastAPI · OpenCV · NumPy · HTML5 Canvas Workbench · CLI</text>
+    <text x="28" y="184" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#64748B">METRICS // 12.0 ms Mean Latency · Layer-Wise Activation Maps · Coordinate Localization</text>
+  </g>
+
+  <!-- CARD 04: CREDIT RISK ML PIPELINE -->
+  <g transform="translate(650, 218)">
+    <rect width="630" height="202" rx="8" fill="#090E1A" stroke="#1E293B" stroke-width="1.5"/>
+    <rect width="630" height="202" rx="8" fill="url(#gridBento)"/>
+    <line x1="0" y1="0" x2="140" y2="0" stroke="#38BDF8" stroke-width="2.5"/>
+
+    <text x="28" y="34" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#38BDF8" letter-spacing="1.5">SYS.04 // CREDIT-RISK-ML-PIPELINE</text>
+    <rect x="478" y="18" width="124" height="22" rx="4" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.4"/>
+    <text x="540" y="33" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#38BDF8">0.8092 ROC-AUC</text>
+
+    <text x="28" y="68" font-family="Inter, -apple-system, sans-serif" font-size="22" font-weight="800" fill="#F8FAFC" letter-spacing="-0.4">Credit Risk Scoring &amp; Segmentation</text>
+    <text x="28" y="96" font-family="Inter, -apple-system, sans-serif" font-size="13.5" fill="#94A3B8">Leak-free statistical learning architecture combining supervised default probability modeling</text>
+    <text x="28" y="116" font-family="Inter, -apple-system, sans-serif" font-size="13.5" fill="#94A3B8">(Logistic Regression, RBF SVM, Random Forest) with PCA and K-Means borrower clustering.</text>
+
+    <line x1="28" y1="142" x2="602" y2="142" stroke="#1E293B" stroke-width="1"/>
+    <text x="28" y="166" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#CBD5E1">STACK // Scikit-Learn · ColumnTransformer · GridSearchCV · Pandas · PCA · K-Means</text>
+    <text x="28" y="184" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#64748B">METRICS // Stratified 5-Fold CV · 72.55% SVM Precision · 0.8092 Tuned Test ROC-AUC</text>
+  </g>
+</svg>

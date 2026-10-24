@@ -1,150 +1,100 @@
-<div align="center">
-  <img src="assets/profile-banner.svg" alt="Alfredo Ramos - AI & Computer Vision Engineer" width="100%" />
-</div>
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Alfredo Ramos — Artificial Intelligence and Computer Vision Engineer" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/alfredo-ramos-olivan-07751a3a5">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-ALFREDO%20RAMOS-0F172A?style=flat-square&labelColor=05080F&color=0284C7" alt="LinkedIn" />
   </a>
   <a href="mailto:alfredooliva765498@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/CONTACT-ALFREDOOLIVA765498%40GMAIL.COM-0F172A?style=flat-square&labelColor=05080F&color=1E293B" alt="Email" />
   </a>
-  <a href="https://github.com/Alfredo-ctrl">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Alfredo-ctrl?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-19%20PUBLIC%20SYSTEMS-0F172A?style=flat-square&labelColor=05080F&color=1E293B" alt="Repositories" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Building%20Daily-38BDF8?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=Alfredo-ctrl&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <strong>Estudiante de Ingeniería en Inteligencia Artificial &amp; Desarrollo de Software</strong><br />
-  <sub>📍 Monterrey / Juárez, Nuevo León, México 🇲🇽 • Especializado en <strong>Computer Vision, Edge AI, Deep Learning</strong> y Arquitecturas Web Interactivas</sub>
+  <img src="https://img.shields.io/badge/LOCATION-NUEVO%20LEON%2C%20MEXICO-0F172A?style=flat-square&labelColor=05080F&color=1E293B" alt="Location" />
 </p>
 
 ---
 
-## ⚡ Sobre Mí / Engineering Signal
+## I. Executive Profile
 
-```txt
-rol           Estudiante de Inteligencia Artificial & Desarrollador de Software
-enfoque       Computer Vision, Deep Learning, Edge AI (Hailo-8L / RPi5) y Herramientas Web
-tecnologías   Python, PyTorch, TensorFlow/Keras, OpenCV, FastAPI, Three.js, JavaScript
-objetivo      Crear soluciones visuales aplicadas a la industria, retail y herramientas de productividad
-filosofía     Sistemas limpios, alta precisión en producción y código documentado listo para desplegar
+Artificial Intelligence and Computer Vision Engineer focused on designing, training, and deploying production-grade visual perception systems, statistical machine learning pipelines, and interactive spatial interfaces.
+
+My engineering work spans the complete lifecycle of intelligent systems: from dataset curation, leak-free preprocessing, and multi-stage convolutional fine-tuning (**PyTorch**, **TensorFlow / Keras 3**, **Scikit-Learn**) to low-latency edge quantization (**Raspberry Pi 5 + Hailo-8L 13 TOPS NPU**), asynchronous inference APIs (**FastAPI**), and 3D digital twin visualization (**Three.js / WebGL**).
+
+```text
+NAME          Alfredo Ramos
+DISCIPLINE    Artificial Intelligence, Computer Vision & Systems Engineering
+PRIMARY STACK Python, PyTorch, TensorFlow, Keras 3, Scikit-Learn, OpenCV, FastAPI, Three.js, TypeScript
+EDGE TARGETS  Raspberry Pi 5, Hailo-8L NPU (13 TOPS INT8), Apple Silicon MPS, Docker Containers
+METHODOLOGY   Reproducible pipelines, cost-sensitive recall calibration, explainable AI (Grad-CAM)
 ```
 
-Soy un apasionado de la **Inteligencia Artificial aplicada y la Visión por Computadora**. Me especializo en llevar modelos matemáticos y redes neuronales desde el entrenamiento en notebooks hasta implementaciones productivas en entornos **Edge (Raspberry Pi 5 + NPU)**, APIs de inferencia de alto rendimiento (**FastAPI / Streamlit**) e interfaces 3D interactivas (**Three.js / WebGL**).
-
 ---
 
-## 🏆 Proyectos Destacados (Featured Engineering Systems)
+## II. Flagship Engineering Systems
 
-| Proyecto | Tipo / Stack | Aspectos Técnicos Clave | Repositorio |
-| :--- | :--- | :--- | :---: |
-| **🏭 Inspección Industrial & Quality Control** | `Deep Learning` `Keras 3` `MobileNetV2` `Streamlit` | Sistema automatizado de control de calidad para piezas de fundición automotriz (impellers). Clasificación binaria con transferencia de aprendizaje, fine-tuning progresivo y panel interactivo con métricas de recall críticas para evitar falsos negativos en línea de producción. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/inspeccion-industrial) |
-| **🛒 Retail Vision AI Lab** | `Edge AI` `YOLO11` `Hailo-8L` `Three.js` `FastAPI` | Arquitectura completa de inventario inteligente en tiempo real para retail. Pipeline ensemble (**YOLO11x + RT-DETR + RF-DETR** con WBF) a 98.5% mAP, optimizado para inferencia en hardware edge **Raspberry Pi 5 + Hailo-8L (13 TOPS, 30 FPS INT8)** con simulador 3D interactivo en Three.js. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/peoyecto-retail) |
-| **🔬 DefectVision Studio (Explainable AI)** | `Computer Vision` `Grad-CAM` `PyTorch` `Canvas Web` | Estudio visual interactivo de detección e inspección con **Grad-CAM**. Genera mapas de calor de activación neural para explicar en tiempo real dónde y por qué el modelo detecta fallas estructurales, fisuras o anomalías. Incluye demo web standalone sin dependencias. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/defect-vision-studio) |
-| **🎨 Neural Style Transfer API** | `Deep Learning` `VGG19` `FastAPI` `PyTorch` | API de síntesis y transferencia de estilo neuronal en tiempo real basada en VGG19. Arquitectura optimizada con FastAPI, soporte de GPU/CPU y frontend web premium para transformación artística de imágenes. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/neural-style-transfer-api) |
-| **💼 CONAEMPLEO Showcase** | `Web Platform` `Security` `UI/UX` `Architecture` | Edición pública sanitizada y segura de la plataforma de empleabilidad CONAEMPLEO. Diseñada para demostrar arquitectura empresarial, flujos de contratación, diseño responsivo y seguridad sin exponer datos confidenciales. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/conaempleo-showcase) |
-| **🛡️ IA Oculta (AI Security CLI)** | `DevTools` `AI Safety` `CLI` `Node.js` | Herramienta de terminal para escanear y detectar inyecciones de prompts ocultas, caracteres Unicode invisibles, payloads ofuscados e instrucciones maliciosas en datasets y prompts para LLMs. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/ia-oculta) |
-| **🩺 RepoDoctor** | `CLI Utility` `Automation` `DevOps` | Auditor de repositorios antes de su publicación en GitHub. Verifica documentación README, assets visuales, instrucciones de ejecución y posibles riesgos de seguridad. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/repodoctor) |
-| **🪐 ClusterNebula** | `Data Science 3D` `Three.js` `Machine Learning` | Laboratorio de ciencia de datos en 3D para visualizar e interactuar con algoritmos de clustering K-Means en el navegador mediante nubes de puntos y aceleración WebGL. | [Ver Repo ➔](https://github.com/Alfredo-ctrl/clusternebula) |
-
----
-
-## 🛠️ Stack Tecnológico & Especialidades
-
-<div align="center">
-
-### 🧠 Inteligencia Artificial, Deep Learning & Visión Artificial
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&perline=10" alt="AI & ML Stack" />
+<p align="center">
+  <img src="assets/flagship-systems.svg" alt="Flagship Engineering Systems Architecture" width="100%" />
 </p>
-<sub>Python • PyTorch • TensorFlow • Keras • OpenCV • Scikit-Learn • NumPy • Pandas • MobileNet • YOLO11</sub>
 
-<br />
-
-### 🌐 Desarrollo Web, Frontend Creativo & 3D
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,html,css,tailwind&perline=10" alt="Web & 3D Stack" />
-</p>
-<sub>JavaScript (ES6+) • TypeScript • React • Three.js (WebGL) • Tailwind CSS • HTML5 • CSS3 Moderno • GSAP</sub>
-
-<br />
-
-### ⚙️ Backend, APIs & Hardware Edge
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,raspberrypi,linux,docker&perline=10" alt="Backend & Edge Stack" />
-</p>
-<sub>FastAPI • Streamlit • Node.js • Express • Raspberry Pi 5 • NPU Hailo-8L • Linux / Bash • Docker</sub>
-
-<br />
-
-### 🧰 Entornos, Control de Versiones & Herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=10" alt="Dev Tools" />
-</p>
-<sub>Git • GitHub • Visual Studio Code • Jupyter Notebooks • Google Colab • Postman • Figma</sub>
-
-</div>
+| System | Domain | Core Architecture & Stack | Empirical Benchmarks & Capabilities |
+| :--- | :--- | :--- | :--- |
+| **[inspeccion-industrial](https://github.com/Alfredo-ctrl/inspeccion-industrial)** | Deep Learning & Quality Control | `TensorFlow 2.20` `Keras 3` `MobileNetV2` `Streamlit` `Playwright` | Automated binary defect detection across `7,348` submersible pump impeller castings. Evaluates 5 progressive architectures from dense MLP to MobileNetV2 fine-tuning, achieving **`99.72%` test accuracy** and **`99.62%` defect recall** (`713/715` test castings). |
+| **[peoyecto-retail](https://github.com/Alfredo-ctrl/peoyecto-retail)** | Edge Computer Vision & 3D Twin | `PyTorch` `YOLO11x` `RT-DETR` `RF-DETR` `Hailo-8L` `FastAPI` `Three.js` | Autonomous retail shelf inventory system trained on SKU-110K (`1.7M` bounding boxes). Combines multi-detector Weighted Boxes Fusion (**`98.5%` mAP**) with `30 FPS` INT8 edge execution on Raspberry Pi 5 and a standalone Three.js 3D store simulator. |
+| **[defect-vision-studio](https://github.com/Alfredo-ctrl/defect-vision-studio)** | Explainable AI (XAI) | `Python` `Grad-CAM` `FastAPI` `OpenCV` `HTML5 Canvas` | Spatial interpretability engine implementing Gradient-weighted Class Activation Mapping ($L_{\text{Grad-CAM}}^c = \text{ReLU}(\sum_k \alpha_k^c A^k)$) for real-time defect hotspot localization (`12.0 ms` mean latency) across REST, CLI, and web interfaces. |
+| **[credit-risk-ml-pipeline](https://github.com/Alfredo-ctrl/credit-risk-ml-pipeline)** | Statistical Machine Learning | `Scikit-Learn` `ColumnTransformer` `GridSearchCV` `PCA` `K-Means` | Leak-free credit default probability pipeline on the German Credit dataset (`N = 1,000`). Compares Logistic Regression, RBF SVM, Random Forest, and Decision Trees via 5-fold Stratified CV (**`0.8092` test ROC-AUC**), paired with 2D PCA and K-Means segmentation. |
+| **[neural-style-transfer-api](https://github.com/Alfredo-ctrl/neural-style-transfer-api)** | Deep Learning Synthesis | `PyTorch` `VGG19` `FastAPI` `JavaScript` | Production neural style transfer service leveraging intermediate VGG19 perceptual feature representations and Gram matrix optimization, exposed via an asynchronous FastAPI server and interactive web workbench. |
+| **[conaempleo-showcase](https://github.com/Alfredo-ctrl/conaempleo-showcase)** | Platform Architecture | `JavaScript` `CSS3` `System Design` `Security` | Sanitized public reference architecture of the CONAEMPLEO institutional employability platform, demonstrating multi-role workflows, bilingual interface systems, and strict data-isolation boundaries. |
 
 ---
 
-## 📊 Métricas & Actividad en GitHub
+## III. Technical Competency & Stack Matrix
 
-<div align="center">
+<p align="center">
+  <img src="assets/competency-matrix.svg" alt="Technical Competency Matrix" width="100%" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Alfredo-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Alfredo-ctrl&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfredo-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B132B&title_color=38BDF8&icon_color=818CF8&text_color=E2E8F0" alt="GitHub Stats" width="48%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alfredo-ctrl&theme=tokyonight&hide_border=true&background=0B132B&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Alfredo-ctrl&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfredo-ctrl&theme=tokyonight&hide_border=true&background=0B132B&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="48%" />
-</picture>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Alfredo-ctrl&bg_color=0B132B&color=E2E8F0&line=38BDF8&point=818CF8&area=true&area_color=0F2744&hide_border=true&custom_title=Actividad%20y%20Contribuciones" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Alfredo-ctrl&bg_color=FFFFFF&color=1F2937&line=0A66C2&point=6366F1&area=true&area_color=DBEAFE&hide_border=true&custom_title=Actividad%20y%20Contribuciones" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfredo-ctrl&bg_color=0B132B&color=E2E8F0&line=38BDF8&point=818CF8&area=true&area_color=0F2744&hide_border=true&custom_title=Actividad%20y%20Contribuciones" alt="Contribution Graph" width="97%" />
-</picture>
-
-</div>
+| Layer | Technologies & Methodologies |
+| :--- | :--- |
+| **Deep Learning & Computer Vision** | `PyTorch` · `TensorFlow 2.20` · `Keras 3` · `OpenCV` · `YOLO11` · `RT-DETR` · `RF-DETR` · `MobileNetV2` · `ResNet-18/50` · `VGG19` · `RetinaNet FPN` · `Weighted Boxes Fusion (WBF)` · `Grad-CAM Saliency` · `Perspective Homography` |
+| **Machine Learning & Data Science** | `Scikit-Learn` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Logistic Regression` · `Support Vector Machines (RBF)` · `Random Forest` · `K-Means Clustering` · `Principal Component Analysis (PCA)` · `Stratified K-Fold CV` · `GridSearchCV` |
+| **Edge AI, Backend & Infrastructure** | `Raspberry Pi 5` · `Hailo-8L NPU (13 TOPS)` · `INT8 Post-Training Quantization` · `FastAPI` · `Uvicorn` · `Node.js` · `Streamlit` · `Gradio` · `Docker` · `Docker Compose` · `Linux / Bash` · `Git` |
+| **Spatial Web, Frontend & Tooling** | `JavaScript (ES2024)` · `TypeScript` · `Three.js` · `WebGL` · `HTML5 Canvas` · `React` · `Tailwind CSS` · `CSS3 Architecture` · `GSAP` · `Playwright Automated Testing` · `CLI Systems` |
 
 ---
 
-## 🎯 Metodología & Flujo de Trabajo
+## IV. Complete Repository Index
 
-- **Enfoque Práctico:** Cada desarrollo busca solucionar un problema tangible (control de calidad, optimización de inventarios, seguridad o productividad de desarrolladores).
-- **Inferencia en el Borde (Edge AI):** Priorizo arquitecturas que puedan ejecutarse localmente con baja latencia y consumo eficiente de recursos.
-- **Documentación Completa:** Repositorios estructurados con diagramas, instrucciones reproducibles de instalación y demos funcionales.
-- **Privacidad por Diseño:** Para proyectos empresariales o académicos sensibles, publico ediciones showcase sanitizadas que demuestran arquitectura sin exponer datos privados.
+### 01 // Computer Vision, Deep Learning & Machine Learning
+- **[inspeccion-industrial](https://github.com/Alfredo-ctrl/inspeccion-industrial)** — Automated industrial casting defect inspection via MobileNetV2 fine-tuning (`99.72%` accuracy, `99.62%` recall).
+- **[peoyecto-retail](https://github.com/Alfredo-ctrl/peoyecto-retail)** — Edge-accelerated retail inventory computer vision system (`YOLO11` + `RT-DETR` + `Hailo-8L NPU`) and Three.js 3D store twin.
+- **[defect-vision-studio](https://github.com/Alfredo-ctrl/defect-vision-studio)** — Explainable AI (`Grad-CAM`) defect saliency engine with FastAPI backend, CLI utility, and interactive inspection workbench.
+- **[credit-risk-ml-pipeline](https://github.com/Alfredo-ctrl/credit-risk-ml-pipeline)** — End-to-end credit risk scoring and borrower segmentation pipeline using Scikit-Learn, Stratified `GridSearchCV`, `PCA`, and `K-Means`.
+- **[neural-style-transfer-api](https://github.com/Alfredo-ctrl/neural-style-transfer-api)** — Deep convolutional style transfer engine powered by `PyTorch`, `VGG19`, and `FastAPI`.
+- **[vision-document-scanner](https://github.com/Alfredo-ctrl/vision-document-scanner)** — Document contour detection, Canny edge extraction, and 4-point perspective homography pipeline.
+- **[signalforge-ai](https://github.com/Alfredo-ctrl/signalforge-ai)** — Time-series telemetry anomaly detection and incident diagnostics laboratory.
+- **[clusternebula](https://github.com/Alfredo-ctrl/clusternebula)** — Interactive 3D data science laboratory visualizing `K-Means` clustering trajectories in `Three.js` / `WebGL`.
+
+### 02 // Developer CLI, AI Safety & Workflow Engineering
+- **[ia-oculta](https://github.com/Alfredo-ctrl/ia-oculta)** — Security command-line scanner detecting hidden prompt injections, zero-width Unicode steganography, and adversarial LLM payloads.
+- **[repodoctor](https://github.com/Alfredo-ctrl/repodoctor)** — Automated repository auditing CLI verifying documentation completeness, structural hygiene, and secret exposure risks.
+- **[promptframe](https://github.com/Alfredo-ctrl/promptframe)** — Deterministic prompt engineering workbench for structuring system instructions, constraints, and evaluation rubrics.
+- **[flowfixer](https://github.com/Alfredo-ctrl/flowfixer)** — Structured debugging diagnostic engine mapping runtime exceptions to deterministic resolution workflows.
+- **[briefsmith](https://github.com/Alfredo-ctrl/briefsmith)** — Technical specification generator transforming product requirements into scoped architecture roadmaps.
+- **[lifepilot](https://github.com/Alfredo-ctrl/lifepilot)** — Dual-surface (Web + Terminal CLI) scheduling and task-prioritization engine.
+
+### 03 // Web Systems, UI Architecture & Automation
+- **[conaempleo-showcase](https://github.com/Alfredo-ctrl/conaempleo-showcase)** — Privacy-safe architectural case study and bilingual frontend implementation for the CONAEMPLEO employability platform.
+- **[motionforge](https://github.com/Alfredo-ctrl/motionforge)** — Visual `GSAP` kinetic choreography builder for scroll-triggered sequences and production code generation.
+- **[aura-motion-kit](https://github.com/Alfredo-ctrl/aura-motion-kit)** — Micro-interaction design system and responsive CSS motion primitives.
+- **[excel-maniobras-descarga](https://github.com/Alfredo-ctrl/excel-maniobras-descarga)** — Standardized operational workflow and spreadsheet automation templates for logistics maneuver tracking.
 
 ---
 
-## 📬 Contacto & Redes
+## V. Contact & Professional Links
 
-¿Tienes una idea, proyecto o propuesta de colaboración en Inteligencia Artificial o Visión por Computadora? ¡Conectemos!
-
-<div align="center">
-
-<a href="https://linkedin.com/in/alfredo-ramos-olivan-07751a3a5">
-  <img src="https://img.shields.io/badge/LinkedIn-Alfredo%20Ramos%20Olivan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:alfredooliva765498@gmail.com">
-  <img src="https://img.shields.io/badge/Email-alfredooliva765498@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Alfredo-ctrl">
-  <img src="https://img.shields.io/badge/GitHub-@Alfredo--ctrl-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br /><br />
-<sub>✨ Construyendo el futuro de la Visión Artificial y la Inteligencia Práctica un proyecto a la vez.</sub>
-
-</div>
+- **LinkedIn:** [linkedin.com/in/alfredo-ramos-olivan-07751a3a5](https://linkedin.com/in/alfredo-ramos-olivan-07751a3a5)
+- **Email:** [alfredooliva765498@gmail.com](mailto:alfredooliva765498@gmail.com)
+- **GitHub:** [github.com/Alfredo-ctrl](https://github.com/Alfredo-ctrl)
